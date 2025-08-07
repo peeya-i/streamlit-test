@@ -19,6 +19,6 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
 
 ### Test
-```
-$ streamlit run test1.py
-```
+   ```
+   $ streamlit run test1.py
+   ```
